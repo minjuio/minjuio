@@ -1,6 +1,6 @@
 
 
-<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee%20Min%20ju&fontSize=50" /></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee%20Min%20Ju&fontSize=50" /></div>
 
 <div align='center'><h2> 🛠️ Tech Stack 🛠️  </div>
 
